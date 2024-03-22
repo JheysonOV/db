@@ -4,32 +4,45 @@
         {
             "Id": 1,
             "Descripcion": "Mouse",
-            "Precio": "30.00"
+            "Precio": "30.00",
+            "urlImg": "https://static.vecteezy.com/system/resources/previews/009/308/159/original/mouse-computer-on-transparent-background-file-png.png"
+        
         },
         {
             "Id": 2,
             "Descripcion": "Mouse",
-            "Precio": "30.00"
+            "Precio": "30.00",
+            "urlImg":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/3-Tasten-Maus_Microsoft.jpg/640px-3-Tasten-Maus_Microsoft.jpg"
+        
         },
         {
             "Id": 3,
             "Descripcion": "Pantalla",
-            "Precio": "30.00"
+            "Precio": "30.00",
+        "urlImg":"https://w7.pngwing.com/pngs/389/674/png-transparent-ddr4-sdram-computer-data-storage-dimm-kingston-technology-ecc-memory-electronics-ram-electronic-device.png"
+
+        
         },
         { "Id": 4,
         "Descripcion": "Memoria RAM",
-        "Precio": "30.00"
+        "Precio": "30.00",
+            "urlImg":"https://http2.mlstatic.com/D_NQ_NP_981166-MLA53394236385_012023-O.webp"
+
     },
     {
         "Id": 5,
         "Descripcion": "Teclado Logi",
-        "Precio": "300.00"
+        "Precio": "300.00",
+        "urlImg":"https://falabella.scene7.com/is/image/FalabellaPE/gsc_117641227_1841076_1?wid=800&hei=800&qlt=70"
+
 
     },
     {
         "Id": 6,
         "Descripcion": "Parlantes",
-        "Precio": "50.00"
+        "Precio": "50.00",
+        "urlImg":"https://falabella.scene7.com/is/image/FalabellaPE/gsc_117641227_1841076_1?wid=800&hei=800&qlt=70"
+
 
     }
     ]
